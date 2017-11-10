@@ -4,11 +4,13 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
 
 ## Tips
 
-A code retreat round/session is typically 45 minutes long, after which you might have a short debriefing of 5 to 10 minutes, then a short break to switch partners before you start another round.
+A code retreat round is typically 45 minutes long, after which you might have a short debriefing of 5 to 10 minutes, then a short break to switch partners before you start another round.
 
-Forty-five minutes can go by pretty fast so you should try to make the most of what little time you have. The last thing you want to do is spend the entire session trying to figure out how to set up an initial pattern on your Game of Life board. I have seen participants spend up to thirty minutes just writing code to do this, leaving them practically no time to explore any other aspects of the problem. That's not fun.
+Forty-five minutes can go by pretty fast so you should try to make the most of what little time you have. The last thing you want to do is spend the entire session trying to figure out how to set up an initial pattern on your Game of Life board. I have seen participants spend as much as thirty minutes just writing code to do this, leaving them practically no time to explore any other aspects of the problem. That's not much fun unless you really want to practice reading/parsing strings and iterating over arrays with nested for-loops.
 
 To help you save some time, I have laid out some common patterns below that you can use to seed the initial generation of your board. These are all patterns taken from the Wikipedia entry for Conway's Game of Life. The Wikipedia entry has more detailed information about the different patterns listed below.
+
+For some of the patterns, I have included all the generations in the pattern's period, the number of generations it goes through before it repeats itself.
 
 ## Common GoL Patterns (from Wikipedia)
 
@@ -16,7 +18,7 @@ Dimensions shown beside each pattern's name indicate (*rows* &times; *columns*).
 
 ### Still lifes
 
-These patterns are stable and will not change from one generation to the next unless they come in contact with other patterns.
+These patterns are stable and will not change from one generation to the next as long as they don't come in contact with another pattern.
 
 **Block** (4 &times; 4)
 ```
@@ -60,7 +62,7 @@ These patterns are stable and will not change from one generation to the next un
 ```
 ### Oscillators
 
-These are oscillators with a period of 2, meaning the pattern repeats every two generations unless it comes in contact with another pattern.
+These oscillators have a period of 2, meaning they will repeat every two generations as long as they don't come in contact with another pattern.
 
 **Blinker** (5 &times; 5)
 ```
