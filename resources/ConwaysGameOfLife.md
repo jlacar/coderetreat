@@ -4,17 +4,19 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
 
 ## Tips
 
-A code retreat round/session is typically 45 minutes long, after there may be a short 5 to 10 minutes of debriefing then a short break before you start another round with a different partner.
+A code retreat round/session is typically 45 minutes long, after which you might have a short debriefing of 5 to 10 minutes, then a short break to switch partners before you start another round.
 
-Forty-five minutes can fly by pretty fast so you want to make the most of what little time you have. The last thing you want to do is spend the entire session trying to figure out how to initialize your Game of Life board with a pattern. I have seen participants spend up to thirty minutes just writing code to do this, leaving them practically no time to explore any other aspect of the problem.
+Forty-five minutes can go by pretty fast so you should try to make the most of what little time you have. The last thing you want to do is spend the entire session trying to figure out how to set up an initial pattern on your Game of Life board. I have seen participants spend up to thirty minutes just writing code to do this, leaving them practically no time to explore any other aspects of the problem. That's not fun.
 
-To help you save some time, I have laid out some common patterns below that you can use to seed the initial generation of your board. These are all patterns taken from the Wikipedia entry for Conway's Game of Life where you can find more detailed information of what the different categories listed below are.
+To help you save some time, I have laid out some common patterns below that you can use to seed the initial generation of your board. These are all patterns taken from the Wikipedia entry for Conway's Game of Life. The Wikipedia entry has more detailed information about the different patterns listed below.
 
 ## Common GoL Patterns (from Wikipedia)
 
-Dimensions shown below indicate (*rows* &times; *columns*). These are minimum dimensions designed to make it easier to figure out the live cell coordinates. I recommend using larger board sizes for patterns that move or span many generations.
+Dimensions shown beside each pattern's name indicate (*rows* &times; *columns*). These are minimum dimensions designed to make it easier to figure out the coordinates of live cells in the pattern. I recommend using larger board sizes for patterns that move or span many generations.
 
 ### Still lifes
+
+These patterns are stable and will not change from one generation to the next unless they come in contact with other patterns.
 
 **Block** (4 &times; 4)
 ```
@@ -58,6 +60,8 @@ Dimensions shown below indicate (*rows* &times; *columns*). These are minimum di
 ```
 ### Oscillators
 
+These are oscillators with a period of 2, meaning the pattern repeats after every second generation.
+
 **Blinker** (5 &times; 5)
 ```
     .....
@@ -65,6 +69,13 @@ Dimensions shown below indicate (*rows* &times; *columns*). These are minimum di
     ..X..
     ..X..
     .....
+
+    .....
+    .....
+    .XXX.
+    .....
+    .....
+
 ```
 **Toad** (6 &times; 6)
 ```
@@ -74,6 +85,14 @@ Dimensions shown below indicate (*rows* &times; *columns*). These are minimum di
     .XXX..
     ......
     ......
+
+    ......
+    ...X..
+    .X..X.
+    .X..X.
+    ..X...
+    ......
+
 ```    
 **Beacon** (6 &times; 6)
 ```
@@ -83,11 +102,19 @@ Dimensions shown below indicate (*rows* &times; *columns*). These are minimum di
     ...XX.
     ...XX.
     ......
+
+    ......
+    .XX...
+    .X....
+    ....X.
+    ...XX.
+    ......
+
 ```
 ### Spaceships
 
 **Glider** (5 &times; 10)
-```
+``` (moves down and to the right)
     ..........
     ...X......
     ....X.....
@@ -95,7 +122,7 @@ Dimensions shown below indicate (*rows* &times; *columns*). These are minimum di
     ..........
 ```
 **Lightweight Spaceship (LWSS)** (6 &times; 10)
-```
+``` (moves to the horizontally to the right)
     ..........
     ..X..X....
     ......X...
