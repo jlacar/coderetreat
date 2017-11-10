@@ -20,7 +20,7 @@ This is how Corey Haines has explained it at past code retreats:
 
 If all you have at the end of the day is one line of code, as long as that line of code is perfect, then you will have achieved the goal of a code retreat.
 
-In our daily work, we are often forced to make compromises and take shortcuts just to be done. The code we write on a daily basis code is often less than perfect. The gap between "perfect code" and what we write on a daily basis is a necessary one though. We can't spend all our time trying to write perfect code on the job because if we did, we'd never get very little, if anything, done!
+In our daily work, we are often forced to make compromises and take shortcuts just to be done. The code we write on a daily basis code is often less than perfect. The gap between "perfect code" and what we write on a daily basis is a necessary one though. We can't spend all our time trying to write perfect code on the job because if we did, we'd get very little, if anything, done!
 
 That gap, however, is also a measure of how much we suck. Our aim at GDCR is to narrow that gap, even just a little bit. Not close it up entirely, but just make it a little smaller, in the hope that what we learn in this one day of no-pressure practice can be brought to bear on our day-to-day coding.
 
