@@ -2,21 +2,28 @@
 
 In a code retreat, we work on a single problem: [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
-(TBD)
+## Tips
 
-## Common GoL Patterns
+A code retreat round/session is typically 45 minutes long, after there may be a short 5 to 10 minutes of debriefing then a short break before you start another round with a different partner.
 
+Forty-five minutes can fly by pretty fast so you want to make the most of what little time you have. The last thing you want to do is spend the entire session trying to figure out how to initialize your Game of Life board with a pattern. I have seen participants spend up to thirty minutes just writing code to do this, leaving them practically no time to explore any other aspect of the problem.
+
+To help you save some time, I have laid out some common patterns below that you can use to seed the initial generation of your board. These are all patterns taken from the Wikipedia entry for Conway's Game of Life where you can find more detailed information of what the different categories listed below are.
+
+## Common GoL Patterns (from Wikipedia)
+
+Dimensions shown below indicate (*rows* &times; *columns*). These are minimum dimensions designed to make it easier to figure out the live cell coordinates. I recommend using larger board sizes for patterns that move or span many generations.
 
 ### Still lifes
 
-**Block** (4 x 4)
+**Block** (4 &times; 4)
 ```
     ....
     .XX.
     .XX.
     ....
 ```
-**Beehive** (5 x 6)
+**Beehive** (5 &times; 6)
 ```
     ......
     ..XX..
@@ -24,7 +31,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ..XX..
     ......
 ```
-**Loaf** (6 x 6)
+**Loaf** (6 &times; 6)
 ```
     ......
     ..XX..
@@ -33,7 +40,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ...X..
     ......
 ```
-**Boat** (5 x 5)
+**Boat** (5 &times; 5)
 ```
     .....
     .XX..
@@ -41,7 +48,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ..X..
     .....
 ```
-**Tub** (5 x 5)
+**Tub** (5 &times; 5)
 ```
     .....
     ..X..
@@ -51,7 +58,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
 ```
 ### Oscillators
 
-**Blinker** (5 x 5)
+**Blinker** (5 &times; 5)
 ```
     .....
     ..X..
@@ -59,7 +66,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ..X..
     .....
 ```
-**Toad** (6 x 6)
+**Toad** (6 &times; 6)
 ```
     ......
     ......
@@ -68,7 +75,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ......
     ......
 ```    
-**Beacon** (6 x 6)
+**Beacon** (6 &times; 6)
 ```
     ......
     .XX...
@@ -79,7 +86,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
 ```
 ### Spaceships
 
-**Glider** (5 x 10)
+**Glider** (5 &times; 10)
 ```
     ..........
     ...X......
@@ -87,7 +94,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ..XXX.....
     ..........
 ```
-**Lightweight Spaceship (LWSS)** (6 x 10)
+**Lightweight Spaceship (LWSS)** (6 &times; 10)
 ```
     ..........
     ..X..X....
@@ -99,7 +106,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
 
 ### Methuselahs
 
-**The R-pentomino** (5 x 5)
+**The R-pentomino** (5 &times; 5)
 ```
     .....
     ..XX.
@@ -107,7 +114,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ..X..
     .....
 ```
-**Diehard** (5 x 10)
+**Diehard** (5 &times; 10)
 ```
     ..........
     .......X..
@@ -115,7 +122,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ..X...XXX.
     ..........
 ```
-**Acorn** (5 x 9)
+**Acorn** (5 &times; 9)
 ```
     .........
     ..X......
@@ -126,7 +133,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
 
 ### Miscellaneous
 
-**Gosper Glider Gun** (11 x 38)
+**Gosper Glider Gun** (11 &times; 38)
 ```
     ......................................
     .........................X............
@@ -140,7 +147,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     .............XX.......................
     ......................................
 ```
-**Flat Gun** (3 x 41)
+**Flat Gun** (3 &times; 41)
 ```
     .........................................
     .XXXXXXXX.XXXXX...XXX......XXXXXXX.XXXXX.
