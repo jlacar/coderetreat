@@ -16,15 +16,17 @@ In 2013, Corey Haines wrote a book, *Understanding the Four Rules of Simple Desi
 
 The goal of GDCR is pretty simple: to write perfect code. To this end, we take away one of the things that often prevents us from writing perfect code: the need to be done.
 
-This is how Corey Haines has explained it at past code retreats:
+At past code retreats, Corey Haines has explained it like this (paraphrased):
 
 If all you have at the end of the day is one line of code, as long as that line of code is perfect, then you will have achieved the goal of a code retreat.
 
-In our daily work, we are often forced to make compromises and take shortcuts just to be done. The code we write on a daily basis code is often less than perfect. The gap between "perfect code" and what we write on a daily basis is a necessary one though. We can't spend all our time trying to write perfect code on the job because if we did, we'd get very little, if anything, done!
+In our daily work, we are often make compromises, take shortcuts, and not do some of the things we know we should do like write more unit tests and refactor more. The code we write on a daily basis is less than perfect because we need to be done and move on to the next task.
 
-That gap, however, is also a measure of how much we suck. Our aim at GDCR is to narrow that gap, even just a little bit. Not close it up entirely, but just make it a little smaller, in the hope that what we learn in this one day of no-pressure practice can be brought to bear on our day-to-day coding.
+There is always a gap between what we view as "perfect code" and what we write on a daily basis. It's important that we have that gap though because we can't spend all our time trying to write perfect code on the job. If we did that, we'd get very little, if anything, done! That gap, however, is also a measure of how much we suck.
 
-Hopefully, we can take back some of the things we learn at GDCR and raise the bar in our daily work just a little bit. Maybe we start choosing better names or get better at recognizing code smells or do something that makes the code we write at work suck less.
+Our aim at GDCR is to narrow that gap, even just a little bit. Not close it up entirely, but maybe just make it a little smaller in the hope that what we learn during this one day of perfect, no-pressure-to-finish practice can be brought to bear on our day-to-day coding.
+
+Hopefully, we can take back some of the things we learn at GDCR and raise the bar in our daily work just a little bit. Then maybe we start choosing better names, or write more unit tests, or get better at recognizing code smells and refactoring, or do something better that makes the code we write at work suck less.
 
 ## The Guidelines
 
