@@ -9,14 +9,14 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
 
 ### Still lifes
 
-**Block**
+**Block** (4 x 4)
 ```
     ....
     .XX.
     .XX.
     ....
 ```
-**Beehive**
+**Beehive** (5 x 6)
 ```
     ......
     ..XX..
@@ -24,7 +24,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ..XX..
     ......
 ```
-**Loaf**
+**Loaf** (6 x 6)
 ```
     ......
     ..XX..
@@ -33,7 +33,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ...X..
     ......
 ```
-**Boat**
+**Boat** (5 x 5)
 ```
     .....
     .XX..
@@ -41,7 +41,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ..X..
     .....
 ```
-**Tub**
+**Tub** (5 x 5)
 ```
     .....
     ..X..
@@ -51,7 +51,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
 ```
 ### Oscillators
 
-**Blinker**
+**Blinker** (5 x 5)
 ```
     .....
     ..X..
@@ -59,7 +59,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ..X..
     .....
 ```
-**Toad**
+**Toad** (6 x 6)
 ```
     ......
     ......
@@ -68,7 +68,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ......
     ......
 ```    
-**Beacon**
+**Beacon** (6 x 6)
 ```
     ......
     .XX...
@@ -79,7 +79,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
 ```
 ### Spaceships
 
-**Glider**
+**Glider** (5 x 10)
 ```
     ..........
     ...X......
@@ -87,7 +87,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ..XXX.....
     ..........
 ```
-**Lightweight Spaceship (LWSS)**
+**Lightweight Spaceship (LWSS)** (6 x 10)
 ```
     ..........
     ..X..X....
@@ -99,7 +99,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
 
 ### Methuselahs
 
-**The R-pentomino**
+**The R-pentomino** (5 x 5)
 ```
     .....
     ..XX.
@@ -107,7 +107,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ..X..
     .....
 ```
-**Diehard**
+**Diehard** (5 x 10)
 ```
     ..........
     .......X..
@@ -115,7 +115,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     ..X...XXX.
     ..........
 ```
-**Acorn**
+**Acorn** (5 x 9)
 ```
     .........
     ..X......
@@ -126,7 +126,7 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
 
 ### Miscellaneous
 
-**Gosper Glider Gun**
+**Gosper Glider Gun** (11 x 38)
 ```
     ......................................
     .........................X............
@@ -140,9 +140,9 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
     .............XX.......................
     ......................................
 ```
-**Flat Gun**
+**Flat Gun** (3 x 41)
 ```
-.........................................
-.XXXXXXXX.XXXXX...XXX......XXXXXXX.XXXXX.
-.........................................
+    .........................................
+    .XXXXXXXX.XXXXX...XXX......XXXXXXX.XXXXX.
+    .........................................
 ```
