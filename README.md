@@ -2,7 +2,7 @@
 
 Welcome!
 
-Get ready for a full day of practice. Today is your chance to get better at the craft of software development. Today is all about *you*, the programmer. No managers breathing down your neck, no commitments to break, no estimates to pull out of the air or your well..., you know where. Just pure, unadulterated practice and hopefully, a lot of fun and learning.
+Get ready for a full day of practice. Today is your chance to get better at the craft of software development. Today is all about *you*, the programmer. No managers breathing down your neck, no commitments to break, no estimates to pull out of the air or your you know what. Just pure, unadulterated practice and hopefully, a lot of fun and learning.
 
 At GDCR, you will get a chance to practice Test-Driven Development (TDD), pair/mob programming, refactoring, unit testing, and applying design principles. You'll also get to meet other people just like yourself, who are passionate about programming and being the best they can be at their craft.
 
