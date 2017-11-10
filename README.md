@@ -18,7 +18,7 @@ The goal of GDCR is pretty simple: to write perfect code. To this end, we take a
 
 This is how Corey Haines has explained it at past code retreats:
 
-If all you have at the end of the day is one line of code, as long as that line of code is perfect, then you will have the goal of a code retreat.
+If all you have at the end of the day is one line of code, as long as that line of code is perfect, then you will have achieved the goal of a code retreat.
 
 In our daily work, we are often forced to make compromises and take shortcuts just to be done. The code we write on a daily basis code is often less than perfect. The gap between "perfect code" and what we write on a daily basis is a necessary one though. We can't spend all our time trying to write perfect code on the job because if we did, we'd never get very little, if anything, done!
 
