@@ -10,40 +10,45 @@ In a code retreat, we work on a single problem: [Conway's Game of Life](https://
 ### Still lifes
 
 **Block**
+```
     ....
     .XX.
     .XX.
     ....
-
+```
 **Beehive**
+```
     ......
     ..XX..
     .X..X.
     ..XX..
     ......
-
+```
 **Loaf**
+```
     ......
     ..XX..
     .X..X.
     ..X.X.
     ...X..
     ......
-
+```
 **Boat**
+```
     .....
     .XX..
     .X.X.
     ..X..
     .....
-
+```
 **Tub**
+```
     .....
     ..X..
     .X.X.
     ..X..
     .....
-
+```
 ### Oscillators
 
 **Blinker**
