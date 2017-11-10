@@ -8,7 +8,7 @@ At GDCR, you will get a chance to practice Test-Driven Development (TDD), pair/m
 
 ## A Very Brief History of GDCR
 
-The original idea for code retreat came out of conversations that Corey Haines had with Gary Bernhardt, Nayan Hajratwala and Patrick Welsh at the 2009 Codemash conference in Sandusky, Ohio. The first Global Day of Code Retreat was held a year later and the rest, as they say, is history. If it's still too early for you to do the math, that makes this year's event the 7th annual GDCR.
+The original idea for code retreat came out of conversations that Corey Haines had with Gary Bernhardt, Nayan Hajratwala and Patrick Welsh at the 2009 Codemash conference in Sandusky, Ohio. The first ever Code Retreat was held in January 2009 in Ann Arbor, Michigan. The first Global Day of Code Retreat was held in 2011. The rest, as they say, is history. If it's still too early for you to do the math, that makes this year's (2017) event the 7th annual GDCR.
 
 In 2013, Corey Haines wrote a book, *Understanding the Four Rules of Simple Design*, and published it on LeanPub. This little book is arguably one of the best books from which to learn Test-Driven Development and simple design. In it, Corey explains some of the most important lessons learned from observing thousands of participants in many code retreats all over the world.
 
