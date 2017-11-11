@@ -26,11 +26,11 @@ To help you save some time, I have laid out some common patterns below that you 
 
 For some of the patterns, I have included all the generations in the pattern's period, the number of generations it goes through before it repeats itself.
 
-##<a name="patterns" />Common GoL Patterns (from Wikipedia)
+## <a name="patterns" />Common GoL Patterns (from Wikipedia)
 
 Dimensions shown beside each pattern's name indicate (*rows* &times; *columns*). These are minimum dimensions designed to make it easier to figure out the coordinates of live cells in the pattern. I recommend using larger board sizes for patterns that move or span many generations.
 
-###<a name="stills" />Still lifes
+### <a name="stills" />Still lifes
 
 These patterns are stable and will not change from one generation to the next as long as they don't come in contact with another pattern.
 
@@ -74,7 +74,7 @@ These patterns are stable and will not change from one generation to the next as
     ..X..
     .....
 ```
-###<a name="oscillators" />Oscillators
+### <a name="oscillators" />Oscillators
 
 These oscillators have a period of 2, meaning they will repeat every two generations as long as they don't come in contact with another pattern.
 
@@ -133,7 +133,7 @@ These oscillators have a period of 2, meaning they will repeat every two generat
     ......
 
 ```
-###<a name="spaceships" />Spaceships
+### <a name="spaceships" />Spaceships
 
 **Glider** (6 &times; 10, Period = 4)
 ```
@@ -230,7 +230,7 @@ These oscillators have a period of 2, meaning they will repeat every two generat
     ....................
 ```
 
-###<a name="methuselahs" />Methuselahs
+### <a name="methuselahs" />Methuselahs
 
 Given enough room, these small patterns can grow and live on for many generations and can even go on indefinitely. They can produce gliders and various oscillators and still life patterns, too.
 
@@ -259,7 +259,7 @@ Given enough room, these small patterns can grow and live on for many generation
     .........
 ```    
 
-###<a name="misc" />Miscellaneous
+### <a name="misc" />Miscellaneous
 
 **Gosper Glider Gun** (11 &times; 38)
 ```
