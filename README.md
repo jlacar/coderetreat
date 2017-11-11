@@ -49,7 +49,7 @@ Hopefully, by practicing how to write perfect code, we can take some of the thin
 
 ## The Guidelines
 
-To practice writing perfect code, we need to have a standard of perfection. At GDCR, that standard is codified in the Four Rules of Simple Design. Code that follows these rules have the following characteristics:
+To practice writing perfect code, we need to have a standard of perfection. At GDCR, that standard is codified in [Kent Beck's Four Rules of Simple Design](https://martinfowler.com/bliki/BeckDesignRules.html). Code that follows these rules have the following characteristics:
 
 1. Passes all tests
 2. Expresses intent clearly
