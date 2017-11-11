@@ -9,14 +9,14 @@
   * [Methuselahs](#methuselahs)
   * [Miscellaneous](#misc)
 
-<a name="problem" />
-##Code Retreat: The Problem
+
+## <a name="problem" />Code Retreat: The Problem
 
 In a code retreat, we work on a single problem: [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 (TBD)
 
-##<a name="tips" />Tips
+## <a name="tips" />Tips
 
 A code retreat round is typically 45 minutes long, after which you might have a short debriefing of 5 to 10 minutes, then a short break to switch partners before you start another round.
 
