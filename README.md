@@ -2,7 +2,7 @@
 
 >
 > *Practice only makes habit. Only perfect practice makes perfect.*
-> &mdash;every music teacher
+> &mdash; every music teacher
 >
 
 ### Welcome!
