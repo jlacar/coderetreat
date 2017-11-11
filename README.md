@@ -1,6 +1,11 @@
 # Global Day of Code Retreat
 
-Welcome!
+>
+> *Practice only makes habit. Only perfect practice makes perfect.*
+> &mdash;every music teacher
+>
+
+### Welcome!
 
 Get ready for a full day of practice. Today is your chance to get better at the craft of software development. Today is all about *you*, the programmer. No managers breathing down your neck, no commitments to break, no estimates to pull out of the air or your you know what. Just pure, unadulterated practice and hopefully, a lot of fun and learning.
 
@@ -27,8 +32,6 @@ If you're looking for some reference material for Code Retreat, your best bet wo
 If you're thinking of either facilitating or participating in a Code Retreat, this book is your User Guide. I don't get anything from promoting this book other than the comforting thought that by doing so, it could lead someone somewhere to write better code that I just might someday have the pleasure of reading or working on.
 
 ## The Goal of Code Retreat
-
-> "Practice only makes habit. Only perfect practice makes perfect."&mdash;every music teacher
 
 The goal of Code Retreat is pretty simple: to write perfect code. To this end, we take away one of the things that often prevents us from writing perfect code: the need to be done.
 
