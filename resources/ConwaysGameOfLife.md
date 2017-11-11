@@ -9,7 +9,8 @@
   * [Methuselahs](#methuselahs)
   * [Miscellaneous](#misc)
 
-##<a name="problem" />Code Retreat: The Problem
+<a name="problem" />
+##Code Retreat: The Problem
 
 In a code retreat, we work on a single problem: [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
