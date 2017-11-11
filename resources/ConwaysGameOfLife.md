@@ -1,8 +1,16 @@
-## Code Retreat: The Problem
+## Contents
+
+[Code Retreat: The Problem](#problem)
+[Tips](#tips)
+[Common Game of Life Patterns](#patterns)
+
+##<a name="problem" />Code Retreat: The Problem
 
 In a code retreat, we work on a single problem: [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
-## Tips
+(TBD)
+
+##<a name="tips" />Tips
 
 A code retreat round is typically 45 minutes long, after which you might have a short debriefing of 5 to 10 minutes, then a short break to switch partners before you start another round.
 
@@ -12,7 +20,7 @@ To help you save some time, I have laid out some common patterns below that you 
 
 For some of the patterns, I have included all the generations in the pattern's period, the number of generations it goes through before it repeats itself.
 
-## Common GoL Patterns (from Wikipedia)
+##<a name="patterns" />Common GoL Patterns (from Wikipedia)
 
 Dimensions shown beside each pattern's name indicate (*rows* &times; *columns*). These are minimum dimensions designed to make it easier to figure out the coordinates of live cells in the pattern. I recommend using larger board sizes for patterns that move or span many generations.
 
