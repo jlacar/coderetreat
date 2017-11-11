@@ -53,7 +53,7 @@ To practice writing perfect code, we need to have a standard of perfection. At G
 
 Because we need all tests to pass, we need to have tests. Automated unit tests, that is, because manual tests just won't cut it when you only have forty-five minutes to write some perfect code. Because our code needs to express our intent clearly, contain no duplication, and be small, we need to refactor.
 
-Test-Driven Development integrates writing unit tests and refactoring in very tight minutes-long cycles. This is why we do TDD at Code Retreat.
+Test-Driven Development integrates writing unit tests and refactoring in very tight seconds-to-minutes-long cycles. This is why we do TDD at Code Retreat.
 
 TDD is really effective when you communicate and exchange ideas with others. This is why we do pair or mob programming at Code Retreat.
 
