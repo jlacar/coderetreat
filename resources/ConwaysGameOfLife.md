@@ -218,6 +218,8 @@ These oscillators have a period of 2, meaning they will repeat every two generat
 
 ### Methuselahs
 
+Given enough room, these small patterns can grow and live on for many generations and can even go on indefinitely. They can produce gliders and various oscillators and still life patterns, too.
+
 **The R-pentomino** (5 &times; 5)
 ```
     .....
