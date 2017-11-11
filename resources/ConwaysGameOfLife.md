@@ -76,7 +76,7 @@ These patterns are stable and will not change from one generation to the next as
 ```
 ### <a name="oscillators" />Oscillators
 
-These oscillators have a period of 2, meaning they will repeat every two generations as long as they don't come in contact with another pattern.
+Oscillators are patterns that repeat after a number of generations. The "period" is the number of generations a pattern will go through before it repeats. The oscillators listed below have a period of 2, meaning they will repeat every two generations, assuming they don't come in contact with another pattern.
 
 **Blinker** (5 &times; 5)
 ```
@@ -135,7 +135,9 @@ These oscillators have a period of 2, meaning they will repeat every two generat
 ```
 ### <a name="spaceships" />Spaceships
 
-**Glider** (6 &times; 10, Period = 4)
+Spaceships are oscillators that move around. Both the spaceships below have a period of 4.
+
+**Glider** (6 &times; 10)
 ```
     (moves down and to the right)
 
@@ -180,7 +182,7 @@ These oscillators have a period of 2, meaning they will repeat every two generat
     ..........
 
 ```
-**Lightweight Spaceship (LWSS)** (7 &times; 20, Period = 4)
+**Lightweight Spaceship (LWSS)** (7 &times; 20)
 ```
     (moves horizontally to the right)
 
