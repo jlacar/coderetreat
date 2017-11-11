@@ -1,8 +1,13 @@
 ## Contents
 
-[Code Retreat: The Problem](#problem)
-[Tips](#tips)
-[Common Game of Life Patterns](#patterns)
+* [Code Retreat: The Problem](#problem)
+* [Tips](#tips)
+* [Common Game of Life Patterns](#patterns)
+  * [Still Lifes](#stills)
+  * [Oscillators](#oscillators)
+  * [Space Ships](#spaceships)
+  * [Methuselahs](#methuselahs)
+  * [Miscellaneous](#misc)
 
 ##<a name="problem" />Code Retreat: The Problem
 
@@ -24,7 +29,7 @@ For some of the patterns, I have included all the generations in the pattern's p
 
 Dimensions shown beside each pattern's name indicate (*rows* &times; *columns*). These are minimum dimensions designed to make it easier to figure out the coordinates of live cells in the pattern. I recommend using larger board sizes for patterns that move or span many generations.
 
-### Still lifes
+###<a name="stills" />Still lifes
 
 These patterns are stable and will not change from one generation to the next as long as they don't come in contact with another pattern.
 
@@ -68,7 +73,7 @@ These patterns are stable and will not change from one generation to the next as
     ..X..
     .....
 ```
-### Oscillators
+###<a name="oscillators" />Oscillators
 
 These oscillators have a period of 2, meaning they will repeat every two generations as long as they don't come in contact with another pattern.
 
@@ -127,7 +132,7 @@ These oscillators have a period of 2, meaning they will repeat every two generat
     ......
 
 ```
-### Spaceships
+###<a name="spaceships" />Spaceships
 
 **Glider** (6 &times; 10, Period = 4)
 ```
@@ -224,7 +229,7 @@ These oscillators have a period of 2, meaning they will repeat every two generat
     ....................
 ```
 
-### Methuselahs
+###<a name="methuselahs" />Methuselahs
 
 Given enough room, these small patterns can grow and live on for many generations and can even go on indefinitely. They can produce gliders and various oscillators and still life patterns, too.
 
@@ -253,7 +258,7 @@ Given enough room, these small patterns can grow and live on for many generation
     .........
 ```    
 
-### Miscellaneous
+###<a name="misc" />Miscellaneous
 
 **Gosper Glider Gun** (11 &times; 38)
 ```
