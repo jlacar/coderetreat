@@ -28,7 +28,7 @@ If you're thinking of either facilitating or participating in a Code Retreat, th
 
 ## The Goal of Code Retreat
 
-> "Practice only makes habit. Only perfect practice makes perfect."&emdash;every music teacher
+> "Practice only makes habit. Only perfect practice makes perfect."&mdash;every music teacher
 
 The goal of Code Retreat is pretty simple: to write perfect code. To this end, we take away one of the things that often prevents us from writing perfect code: the need to be done.
 
