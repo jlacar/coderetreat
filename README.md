@@ -7,7 +7,7 @@
 
 ### Welcome!
 
-Get ready for a full day of practice. Today is your chance to get better at the craft of software development. Today is all about *you*, the programmer. No managers breathing down your neck, no commitments to break, no estimates to pull out of the air or your you know what. Just pure, unadulterated practice and hopefully, a lot of fun and learning.
+Get ready for a full day of practice. Today is all about *you*, the programmer, and giving you a chance to get better at the craft of software development. No managers breathing down your neck, no commitments to break, no estimates to pull out of the air or your you know what. Just pure, unadulterated practice and hopefully, having a lot of fun and learning along with it.
 
 At GDCR, you will get a chance to practice Test-Driven Development (TDD), pair/mob programming, refactoring, unit testing, and applying design principles. You'll also get to meet other people just like yourself, who are passionate about programming and being the best they can be at their craft.
 
@@ -15,7 +15,7 @@ At GDCR, you will get a chance to practice Test-Driven Development (TDD), pair/m
 
 If you have had bad experiences with Scrum or some other flavor of Agile Software Development in the past, you might hesitate when you hear "TDD, refactoring, and pair programming" and say, "Wait, are you trying to trick me into doing Agile?"
 
-No, Code Retreat is not about Agile Software Development at all, although you'll probably meet some  participants of Code Retreat who practice or are interested in Extreme Programming (XP). No, Code Retreat is about practicing the *craft* of writing software.
+No, Code Retreat is not about Agile Software Development at all, although there's a good chance you'll meet some participants at Code Retreat who practice or are interested in Extreme Programming (XP). Code Retreat is all about practicing the *craft* of writing software.
 
 ## Code Retreats are FREE!
 
