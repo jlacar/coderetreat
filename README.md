@@ -2,20 +2,20 @@
 
 >
 > *Practice only makes habit. Only perfect practice makes perfect.*
-> &mdash; every music teacher
+> &mdash; every music teacher ever
 >
 
 ### Welcome!
 
-Get ready for a full day of practice. Today is all about *you*, the programmer, and giving you a chance to get better at the craft of software development. No managers breathing down your neck, no commitments to break, no estimates to pull out of the air or your you know what. Just pure, unadulterated practice and hopefully, having a lot of fun and learning along with it.
+Get ready for a full day of practice. Today is all about *you*, the programmer, and giving you a chance to practice your craft. No managers breathing down your neck, no users changing their minds, no commitments to break, and best of all, no estimates to pull out of the air or your you know what. Just pure, unadulterated practice and hopefully, having a lot of fun and learning while doing it.
 
 At GDCR, you will get a chance to practice Test-Driven Development (TDD), pair/mob programming, refactoring, unit testing, and applying design principles. You'll also get to meet other people just like yourself, who are passionate about programming and being the best they can be at their craft.
 
 ## It's about Craftsmanship
 
-If you have had bad experiences with Scrum or some other flavor of Agile Software Development in the past, you might hesitate when you hear "TDD, refactoring, and pair programming" and say, "Wait, are you trying to trick me into doing Agile?"
+Some of you may hesitate when you hear "TDD, refactoring, and pair programming" and say, "Wait a minute, are you trying to trick me into doing Agile?"
 
-No, Code Retreat is not about Agile Software Development at all, although there's a good chance you'll meet some participants at Code Retreat who practice or are interested in Extreme Programming (XP). Code Retreat is all about practicing the *craft* of writing software.
+No, Code Retreat is not about Agile Software Development at all nor is it a way to to trick you into doing it. Code Retreat is all about practicing the *craft* of writing software. While there's a good chance you'll meet people at Code Retreat who are very enthusiastic about Extreme Programming (XP), that's just because XPers tend to be passionate about craftsmanship, too.
 
 ## Code Retreats are FREE!
 
