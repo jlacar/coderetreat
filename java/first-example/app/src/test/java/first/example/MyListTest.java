@@ -12,7 +12,7 @@ class MyListTest {
         MyList aList = new MyList();
 
         @Test
-        void it_should_have_initial_capacity_of_10() {
+        void it_should_have_default_capacity_of_10() {
             assertEquals(10, aList.getCapacity());
         }
 
@@ -39,6 +39,18 @@ class MyListTest {
             for (int i = aList.getSize(); i < howManyMore; i++) {
                 aList.add("foo");
             }
+        }
+    }
+
+    @Nested
+    class When_Read_Only {
+        MyList aReadOnlyList = new MyList(true);
+
+        @Test
+        void it_should_not_accept_new_elements() {
+            aReadOnlyList.add("Object");
+
+            assertEquals(0, aReadOnlyList.getSize());
         }
     }
 

@@ -25,7 +25,7 @@ public class MyList {
         }
     }
 
-    public int getSize() { return size; }
+    int getSize() { return size; }
 
     int getCapacity() { return elements.length; }
 }
