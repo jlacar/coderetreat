@@ -53,5 +53,4 @@ class MyListTest {
             assertEquals(0, aReadOnlyList.getSize());
         }
     }
-
 }
