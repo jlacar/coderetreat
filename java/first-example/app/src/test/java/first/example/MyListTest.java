@@ -44,7 +44,7 @@ class MyListTest {
 
     @Nested
     class When_Read_Only {
-        MyList aReadOnlyList = new MyList(true);
+        MyList aReadOnlyList = new MyList(new Object[] {"FooBar", 3, 5L, new Object()});
 
         @Test
         void it_should_not_accept_new_elements() {

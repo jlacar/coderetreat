@@ -55,7 +55,7 @@ Junilu Lacar, Agile Coach and [Aspiring Software Craftsman](http://manifesto.sof
 
 * [*Refactoring to Patterns*](https://amzn.to/2yGFRXV) by Joshua Kerievsky
 
-> Contains the Compose Method refactoring example that I use to show how refactoring can make a dramatic difference
+> Contains the Compose Method refactoring example that I use to show the dramatic difference some simple refactorings can make
 > in the clarity and readability of code.
 
 ### Unit Testing
@@ -85,12 +85,21 @@ TBD
 
 * [*Clean Architecture*](https://amzn.to/2SrQ1Uz) by Robert "Uncle Bob" Martin
 
-* [*The Pragmatic Programmer: From Journeyman to Master*](https://amzn.to/2D8OVIT) by Dave Thomas and Andy Hunt
+* [*The Pragmatic Programmer: From Journeyman to Master*](https://amzn.to/2D8OVIT) by Andrew Hunt and Dave Thomas
 
-> This book introduced the DRY Principle (Don't Repeat Yourself). The authors are also original signatories of the 
+> There are many lessons in this book for aspiring programmers. This is where I first read about the DRY Principle (Don't Repeat Yourself). The authors are also original signatories of the 
 > Manifesto for Agile Software Development.
 
 * [*Effective Java (Third Edition)*](https://amzn.to/2Q2sKH4) by Joshua Bloch
+
+## Articles
+
+### The Point of TDD: Responsibility
+
+* [*Collective Ownership of Code and Text: A Conversation with Ward Cunningham, Part II*](https://www.artima.com/intv/ownership.html) by Bill Venners
+
+* [*Testing is not the point. The point is about responsibility*](https://www.artima.com/intv/ownership.html) by Rajesh Kumar
+
 
 ## Websites
 

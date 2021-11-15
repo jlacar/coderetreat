@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99f275fe-5777-4c68-9b3d-cb2c52636354" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../java/first-example/app/src/main/java/first/example/TennisGame1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/first-example/app/src/main/java/first/example/TennisGame2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/first-example/app/src/main/java/first/example/TennisGame3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/first-example/app/src/main/resources/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/first-example/app/src/test/java/first/example/TennisGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/src/main/kotlin/gol/GameOfLife.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/src/test/kotlin/gol/GameOfLifeTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/first-example/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/first-example/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/first-example/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/first-example/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/first-example/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/first-example/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/first-example/app/src/main/java/first/example/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/first-example/app/src/main/java/first/example/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/first-example/app/src/test/java/first/example/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/first-example/app/src/test/java/first/example/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/References.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/References.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="mb0a0g6t" />
+  </component>
+  <component name="ProjectId" id="20oIe6Acw1zeb9yEJGzZLmcAZJ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run game-of-life" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package game-of-life --bin game-of-life" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Run game-of-life" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99f275fe-5777-4c68-9b3d-cb2c52636354" name="Changes" comment="" />
+      <created>1636704605569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636704605569</updated>
+      <workItem from="1636704609919" duration="3762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

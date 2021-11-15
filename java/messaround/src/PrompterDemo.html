@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Title of the document</title>
+    <style>
+        .navbar {
+            overflow: hidden;
+            background-color: #333;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        .navbar a {
+            float: right;
+            font-size: 17px;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            transform: scaleX(-1);
+        }
+
+        .navbar a:hover {
+            background: #ddd;
+            color: black;
+        }
+
+        .content {
+            height: 80%;
+            background-color: black;
+            color: white;
+            font-size: 8em;
+            text-align: center;
+            transform: scaleX(-1);
+        }
+        p {
+            padding-top: 50%;
+            -moz-animation: marquee linear infinite;
+            -webkit-animation: marquee linear infinite;
+            animation: marquee linear infinite;
+            animation-duration: 40s;
+        }
+        @keyframes fadeOut {
+            from {
+                opacity: 1;
+            }
+            to {
+                opacity: 0;
+            }
+        }
+        @keyframes marquee {
+            0% {
+                -moz-transform: translate(0, 0);
+                -webkit-transform: translate(0, 0);
+                transform: translate(0, 0);
+                opacity: 0;
+            }
+            40% {
+                opacity: 0.8;
+            }
+            50% {
+                opacity: 1;
+            }
+            60% {
+                opacity: 0.8;
+            }
+            100% {
+                -moz-transform: translate(0, -100%);
+                -webkit-transform: translate(0, -100%);
+                transform: translate(0, -100%);
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="navbar">
+    <a href="javascript: alert('Home')">Home</a>
+    <a href="javascript: alert('News')">News</a>
+    <a href="#contact">Contact</a>
+</div>
+<div class="content">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at arcu aliquet, volutpat urna id, luctus ex. In eu felis quam. In hac habitasse platea dictumst. Praesent imperdiet nisl vitae volutpat mollis. Etiam porttitor vehicula ex tempor pretium. Nulla scelerisque malesuada convallis. Sed cursus iaculis lorem, nec suscipit nibh consequat ac. Sed tincidunt dolor ligula, quis accumsan lacus interdum ut. Fusce eget dictum metus.</p>
+</div>
+
+<!--@-moz-keyframes marquee {-->
+<!--0% {-->
+<!--transform: translate(0, 0);-->
+<!--}-->
+<!--100% {-->
+<!--transform: translate(0, -10%);-->
+<!--}-->
+<!--}-->
+<!--@-webkit-keyframes marquee {-->
+<!--0% {-->
+<!--transform: translate(0, 0);-->
+<!--}-->
+<!--100% {-->
+<!--transform: translate(0, -10%);-->
+<!--}-->
+<!--}-->
+
+</body>
+</html>
